@@ -1,4 +1,3 @@
-package Kolokwium;
 
 import java.util.Scanner;
 
